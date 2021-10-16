@@ -35,7 +35,7 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://play.google.com/store/apps/details?id=com.divdow.tonyplay",
+      "update_action" : "",
       "update_msg" : "update your app for grt all favorite now",
       "update_state" : false,
       "update_title" : "update your app"
@@ -47,32 +47,32 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://i.imgur.com/s6PIJUZ.jpg",
       "state" : "free",
       "title" : "This is Yassin tv app",
-      "description" : "Tony play is best game football for now you can play with your friends all the world ",
+      "description" : "Yassine TV is a free app ",
       "written" : "Test written 0 <br>My written"
     },
     {
       "id" : 1,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://i.imgur.com/zxEB2Xh.jpg",
       "state" : "free",
-      "title" : "staduim",
+      "title" : "Yassine TV est une application gratuit",
       "description" : "Test description 1",
       "written" : "Test written 1"
     },
     {
       "id" : 2,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://i.imgur.com/SAUoDnZ.jpg",
       "state" : "free",
-      "title" : "Enjoy with the view",
+      "title" : "ياسين تيفي تطبيق مجاني",
       "description" : "Test description 2",
       "written" : "Test written 2"
     },
     {
       "id" : 3,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
+      "state" : "vip",
       "title" : "Play anytime you want with any one you want",
       "description" : "Test description 3",
       "written" : "Test written 3"
@@ -80,7 +80,7 @@
     {
       "id" : 4,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
+      "state" : "vip",
       "title" : "Great match waiting for you",
       "description" : "Test description 4",
       "written" : "Test written 4"
