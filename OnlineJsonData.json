@@ -34,10 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
+      "enable_update_closed" : true,
       "update_action" : "https://iphone12.hijera.com/",
       "update_msg" : "update your app for grt all favorite now",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "update your app"
     },
     "app" : {
@@ -47,7 +47,7 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://i.imgur.com/s6PIJUZ.jpg",
+      "imageURL" : "https://i.imgur.com/Jo1MDPH.jpg",
       "state" : "free",
       "title" : "This is Yassin tv app",
       "description" : "Yassine TV is a free app ",
