@@ -1,8 +1,8 @@
 {
   "config" : {
     "adcolony" : {
-      "adcolony_app_id" : "",
-      "adcolony_interstitial_id" : "",
+      "adcolony_app_id" : "app8c732a02eda9440ebb",
+      "adcolony_interstitial_id" : "vz7d0ac5e7213b467a9e",
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
@@ -21,11 +21,11 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "adcolony",
+    "mode_ads_interstitial" : "adcolony",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "adcolony",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
