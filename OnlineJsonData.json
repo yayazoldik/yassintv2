@@ -13,7 +13,7 @@
       "admob_unit_id" : ""
     },
     "appodeal" : {
-      "appodeal_app_key" : ""
+      "appodeal_app_key" : "da030dbb9138090638281ff74850d00abc1d0419f3af0fbb"
     },
     "facebook" : {
       "facebook_banner_id" : "IMG_16_9_APP_INSTALL#",
@@ -21,11 +21,11 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "adcolony",
-    "mode_ads_interstitial" : "adcolony",
+    "mode_ads_banner" : "appodeal",
+    "mode_ads_interstitial" : "appodeal",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "adcolony",
+    "mode_ads_rewarded" : "appodeal",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -34,10 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
+      "enable_update_closed" : true,
       "update_action" : "https://smrturl.co/o/75105/53217192?s1=",
       "update_msg" : "update your app for grt all favorite now",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "update your app"
     },
     "app" : {
