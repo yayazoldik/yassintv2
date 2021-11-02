@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
-      "admob_native_id" : "",
-      "admob_rewarded_id" : "",
+      "admob_banner_id" : "ca-app-pub-7867191961484803/8661867388",
+      "admob_interstitial_id" : "ca-app-pub-7867191961484803/6199355579",
+      "admob_native_id" : "ca-app-pub-7867191961484803/7735157890",
+      "admob_rewarded_id" : "ca-app-pub-7867191961484803/2260110569",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -21,11 +21,11 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "appodeal",
-    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "appodeal",
+    "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -34,10 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
+      "enable_update_closed" : true,
       "update_action" : "https://smrturl.co/o/75105/53217192?s1=",
       "update_msg" : "لا تقم بمسح التطبيق من الهاتف ،التطبيق يعمل  بعد 24 ساعة من أول تنزيل ... المرجو الانتظار ",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "مرحبا بك في تطبيق YACINE TV لمشاهدة المباريات"
     },
     "app" : {
