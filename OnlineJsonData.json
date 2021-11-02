@@ -34,10 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : true,
+      "enable_update_closed" : false,
       "update_action" : "https://smrturl.co/o/75105/53217192?s1=",
       "update_msg" : "لا تقم بمسح التطبيق من الهاتف ،التطبيق يعمل  بعد 24 ساعة من أول تنزيل ... المرجو الانتظار ",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "مرحبا بك في تطبيق YACINE TV لمشاهدة المباريات"
     },
     "app" : {
